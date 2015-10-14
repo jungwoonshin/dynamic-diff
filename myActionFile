@@ -1,0 +1,7 @@
+DEL 3 1
+ADD 11 3 {asd}
+DEL 12 4
+ADD 17 4 {sssd}
+DEL 18 3
+ADD 22 1 {d}
+DEL 22 4

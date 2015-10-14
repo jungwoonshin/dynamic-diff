@@ -1,0 +1,5 @@
+DEL 4 1
+ADD 5 3 {and}
+ADD 7 2 {
+ }
+DEL 10 6
